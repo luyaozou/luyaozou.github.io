@@ -82,10 +82,10 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Luyao Zou"
-  avatar           : # "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Dr. Luyao Zou's personal page"
   location         : "Lille, France"
-  employer         : PhLAM, Université de Lille
+  employer         : "PhLAM, Université de Lille"
   pubmed           : 
   googlescholar    : 
   email            : 
@@ -103,8 +103,8 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/luyao-zou-66445958/"
-  orcid            : "https://orcid.org/0000-0001-9374-5666"
+  linkedin         : "luyao-zou-66445958"
+  orcid            : "0000-0001-9374-5666"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
@@ -116,7 +116,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/luyao-zou"
+  zhihu            : "luyao-zou"
 
 
 # Reading Files
