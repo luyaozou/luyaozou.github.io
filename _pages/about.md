@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Luyao Zou - Spectroscopist &verbar; Astrochemist "
+title: "Dr. Luyao Zou"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

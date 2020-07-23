@@ -25,8 +25,8 @@ Michael C. McCarthy, __Luyao Zou__, and Marie-Aline Martin-Drumel, *J. Chem. Phy
 
 * Weakly Bound Clusters in Astrochemistry? Millimeter and Submillimeter Spectroscopy of trans-HO<sub>3</sub> and Comparison to Astronomical Observations, *J. Phys. Chem. A* (2016) 120, 657 (**Feature Article**). DOI: [10.1021/acs.jpca.5b09624](https://doi.org/10.1021/acs.jpca.5b09624)
 
-* Global Optimization and Broadband Analysis Software for Interstellar Chemistry (GOBASIC), Mary L. Rad<sup>&ast;</sup>, __Luyao Zou<sup>&ast;</sup>__, James L. Sanders III, and Susanna L. Widicus Weaver, *A &amp; A* (2016)  585, A23. DOI: [10.1051/0004-6361/201322591](https://doi.org/10.1051/0004-6361/201322591)
+* Global Optimization and Broadband Analysis Software for Interstellar Chemistry (GOBASIC), Mary L. Rad<sup> &#42; </sup>, __Luyao Zou__<sup> &#42; </sup>, James L. Sanders III, and Susanna L. Widicus Weaver, *A &amp; A* (2016)  585, A23. DOI: [10.1051/0004-6361/201322591](https://doi.org/10.1051/0004-6361/201322591)
 
-* A hollow-cathode THz spectrometer for the study of astrophysical ions and radicals: Benchmarking with N<sub>2</sub>H<sup>+</sup> and extended measurements for N<sub>2</sub>D<sup>+</sup>, Nadine Wehres, Trevor N. K. Cross, Mary L. Rad, __Luyao Zou__, Anne Carroll, Susanna L. Widicus Weaver, *J. Mol. Spectrosc.* (2014), 306, 1. DOI: [10.1016/j.jms.2014.09.012](https://doi.org/10.1016/j.jms.2014.09.012)
+* A hollow-cathode THz spectrometer for the study of astrophysical ions and radicals: Benchmarking with N<sub>2</sub>H<sup>+</sup> and extended measurements for N<sub>2</sub>D<sup>+</sup>, Nadine Wehres, Trevor N. K. Cross, Mary L. Rad, __Luyao Zou__, Anne Carroll, Susanna L. Widicus Weaver, *J. Mol. Spectrosc.* (2014) 306, 1. DOI: [10.1016/j.jms.2014.09.012](https://doi.org/10.1016/j.jms.2014.09.012)
 
 
