@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+Université Paris-Est Créteil, Créteil, France
+====== 
+
+* Nov 2022. Travaux Pratiques de chimie physique.
+
+
+Université de Lille, Villeneuve d'Ascq, France
+======
+
+* Laboratory tours.
+* Mentoring of high school intern.
+
 Emory University, Atlanta, GA, US
 ====== 
 

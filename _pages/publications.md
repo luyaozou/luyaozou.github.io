@@ -10,6 +10,14 @@ author_profile: true
 Peer-reviewed publications since 2012
 =====
 
+* Millimeter- and submillimeter-wave spectrum of formaldoxime (CH<sub>2</sub>NOH), __Luyao Zou__, Jean-Claude Guillemin, Roman A. Motiyenko, and Laurent Margulès, *A&A* (2021) 649, A60. DOI: [10.1051/0004-6361/202040142](https://doi.org/10.1051/0004-6361/202040142)
+
+* Window Function for Chirped Pulse Spectroscopy with Enhanced
+Signal-to-noise Ratio and Lineshape Correction, __Luyao Zou__, Roman A. Motiyenko, *JQSRT* (2021) 268, 107608. DOI: [10.1016/j.jqsrt.2021.107608](https://doi.org/10.1016/j.jqsrt.2021.107608)
+
+* Discovery of the acetyl cation, CH<sub>3</sub>CO<sup>+</sup>, in space and in the laboratory, J. Cernicharo, C. Cabezas, S. Bailleux, L. Margulès, R. Motiyenko, __L. Zou__, Y. Endo, C. Bermúdez, M.
+Agúndez, N. Marcelino, B. Lefloch, B. Tercero, and P. de Vicente, *A&A* (2021) 646 L7. DOI: [10.1051/0004-6361/202040076](https://doi.org/10.1051/0004-6361/202040076)
+
 * Millimeter-wave emission spectrometer based on direct digital synthesis, __Luyao Zou__, Roman A. Motiyenko, Laurent Margulès, and Eugen A. Alekseev, *Rev. Sci. Instrum.* (2020) 91, 063104. DOI: [10.1063/5.0004461](https://doi.org/10.1063/5.0004461)
 
 * Observation and Analysis of Interstellar Acetone in GAL 31.41+0.31, GAL 034.3+00.2, and GAL 10.47+00.03, __Luyao Zou__, Susanna L. Widicus Weaver, *ApJ* (2017) 849, 139. DOI: [10.3847/1538-4357/aa8eea](https://doi.org/10.3847/1538-4357/aa8eea)
