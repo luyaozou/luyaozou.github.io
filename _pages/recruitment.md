@@ -1,15 +1,12 @@
 ---
 layout: archive
-title: "Recruitement"
-permalink: /recruitement/
+title: "Recruitment"
+permalink: /recruitment/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-Recruitment
-=====
 
 I am looking for a post-doc researcher experienced in instrument development and molecular spectroscopy to work on the new slit jet-expansion chamber to be built in LPCA. 
 

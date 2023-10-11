@@ -12,5 +12,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Recruitment"
+    url: /recruitment/
+
   - title: "Fun"
     url: /fun/
