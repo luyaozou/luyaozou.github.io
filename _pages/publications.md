@@ -10,6 +10,8 @@ author_profile: true
 Peer-reviewed publications since 2012
 =====
 
+* Millimeter-wave spectrum of 2-propanimine, __Luyao Zou__,  Jean-Claude Guillemin; Arnaud Belloche; Jes K Jørgensen; Laurent Margulès; Roman A Motiyenko; Peter Groner, *MNRAS* (2023) 520, 4089. DOI: [10.1093/mnras/stad405](https://doi.org/10.1093/mnras/stad405)
+
 * Millimeter- and submillimeter-wave spectrum of formaldoxime (CH<sub>2</sub>NOH), __Luyao Zou__, Jean-Claude Guillemin, Roman A. Motiyenko, and Laurent Margulès, *A&A* (2021) 649, A60. DOI: [10.1051/0004-6361/202040142](https://doi.org/10.1051/0004-6361/202040142)
 
 * Window Function for Chirped Pulse Spectroscopy with Enhanced

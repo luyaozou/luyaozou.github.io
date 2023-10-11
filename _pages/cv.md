@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * December 2022: Chaire de Professeur Junior 
-  * Ecole d'Ingénieurs du Littoral - Côte d'Opale &#124; Laboratoire LPCA UR 4493
+  * Ecole d'Ingénieurs, Université du Littoral - Côte d'Opale &#124; Laboratoire de Physico-Chimie de l'Atmosphère, UR 4493
 
 * October 2022 -- December 2022: Postdoctoral Researcher
   * Laboratoire LISA UMR 7583 CNRS, Université Paris-Est Créteil 
@@ -69,8 +69,14 @@ Programming Skills
  
 Teaching
 ======
+  * Université du Littoral Côte d'Opale, France
+    * 2024 Spring, Electromagnetism Lab.
+    * 2023 Fall, Introduction to Molecular Spectroscopy, Lecture + Lab
+    * 2023 Spring, Introduction to Molecular Spectroscopy, Lecture.
+    * 2023 Spring, Electromagnetism Lab.
+
   * Université Paris-Est Créteil, Créteil, France
-    * Nov 2022. Physical Chemistry Lab.
+    * Nov 2022. Kinetics and Reactivity Lab.
 
   * Université de Lille, Villeneuve d'Ascq, France
     * Laboratory tours.
@@ -85,6 +91,8 @@ Teaching
     
 Peer-reviewed Publications since 2012
 ======
+
+* Millimeter-wave spectrum of 2-propanimine, __Luyao Zou__,  Jean-Claude Guillemin; Arnaud Belloche; Jes K Jørgensen; Laurent Margulès; Roman A Motiyenko; Peter Groner, *MNRAS* (2023) 520, 4089. DOI: [10.1093/mnras/stad405](https://doi.org/10.1093/mnras/stad405)
 
 * Millimeter- and submillimeter-wave spectrum of formaldoxime (CH<sub>2</sub>NOH), __Luyao Zou__, Jean-Claude Guillemin, Roman A. Motiyenko, and Laurent Margulès, *A&A* (2021) 649, A60. DOI: [10.1051/0004-6361/202040142](https://doi.org/10.1051/0004-6361/202040142)
 
@@ -114,10 +122,17 @@ Michael C. McCarthy, __Luyao Zou__, and Marie-Aline Martin-Drumel, *J. Chem. Phy
 
 Invited Talks
 =====
+* Invited seminar at LPCA UR 4493, Université du Littoral Côte d’Opale, Dunkerque, France, **Development of millimeter wave spectrometers for the study of astrophysical molecules**(2022).
+
+* Invited seminar at LISA UMR 7583 CNRS, Université Paris-Est Créteil, Créteil, France, **Development of millimeter wave absorption and emission spectrometers for the study of astrophysical and atmospheric molecules and radicals** (2021).
+
 * __Luyao Zou__, **Millimeter-wave Emission Spectrometer Based on Direct Digital Synthesis and Zero-biased Detectors**, Journées de Spectroscopie Moléculaire, Rennes, France (28/06/2021 -- 30/06/2021).
 
 Contributed Talks
 =====
+
+* __Luyao Zou__, Isabelle Kleiner, Laurent Margulès, **Global treatment of torsional excited states of non-equivalent CH3 tops: test with 2-propanimine**, 28<sup>th</sup> Colloquium on High Resolution Molecular Spectroscopy, Dijon, France (28/08/2023 - 01/09/2023).
+
 
 * __Luyao Zou__, Laurent Margulès, Roman A. Motiyenko, Jean-Claude Guillemin, Arnaud Belloche, Jes Jørgensen, **Millimeter-wave spectrum of 2-propanimine and its search in the interstellar medium**, 75<sup>th</sup> International Symposium on Molecular Spectroscopy, Champaign–Urbana, USA (20/06/2022 - 24/06/2022).
 

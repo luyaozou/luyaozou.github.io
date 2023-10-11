@@ -12,13 +12,20 @@ redirect_from:
 Who Am I?
 =====
 
-I am currently the Chaire de Professeur Junior (a French tenure-track position) at Ecole d'Ingénieurs du Littoral - Côte d'Opale. This is my simple personal webpage. 
+I am currently the Chaire de Professeur Junior (a French tenure-track position) at Ecole d'Ingénieurs, Université du Littoral - Côte d'Opale (ULCO). 
+I work in the [Laboratory of Physical-Chemistry of Atmosphere (LPCA UR 4493)](https://lpca.univ-littoral.fr/home-2/).
 
 What do I do in research?
 =====
 
-I am a spectroscopist. More specifically, I mainly focus on laboratory rotational spectroscopy, which works with microwave and (sub)millimeter wave radiation. I am interested in the molecules, especially radicals, that are important in the chemistry of atmospheric and astrophysical environments. 
+I am a spectroscopist. More specifically, I mainly focus on laboratory rotational spectroscopy, which works with microwave and (sub)millimeter wave radiation. My interest lies in spectral measurement and analysis, and in the application of rotational spectra in gas-phase detection of molecules in the atmosphere and in the interstellar medium. I have experience in developing laboratory instruments, software, and in analyzing complicated rotational spectra including large amplitude motions. 
 
+During my PhD and post-docs, I mainly focused on studying the molecules relevant to *astrochemistry* using mainly two techniques: pulsed supersonic expansion experiments and room-temperature absorption spectroscopy. 
+I developed "fast-sweep" scanning technique (at Emory) and then a millimeter-wave chirped pulse spectrometer (at Lille). 
+I studied radicals, N-containing organic molecules, and a van-der-Waals complex using these experimental techniques. 
+
+In my current position at ULCO, I am interested in applying rotational spectroscopy to study atmospheric reactions leading to the formation of secondary organic aerosols (SOAs).
+I am developing a project combining jet-expansion spectroscopy with atmospheric simulation chambers to better characterize the reaction intermediates of SOA precursors. 
 
 
 What do I do in other times?

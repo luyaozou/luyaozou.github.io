@@ -8,12 +8,18 @@ author_profile: true
 {% include base_path %}
 
 
-Invited Talks
+Invited Talks and Seminars
 =====
+* Invited seminar at LPCA UR 4493, Université du Littoral Côte d’Opale, Dunkerque, France, **Development of millimeter wave spectrometers for the study of astrophysical molecules**(2022).
+
+* Invited seminar at LISA UMR 7583 CNRS, Université Paris-Est Créteil, Créteil, France, **Development of millimeter wave absorption and emission spectrometers for the study of astrophysical and atmospheric molecules and radicals** (2021).
+
 * __Luyao Zou__, **Millimeter-wave Emission Spectrometer Based on Direct Digital Synthesis and Zero-biased Detectors**, Journées de Spectroscopie Moléculaire, Rennes, France (28/06/2021 -- 30/06/2021).
 
 Contributed Talks
 =====
+
+* __Luyao Zou__, Isabelle Kleiner, Laurent Margulès, **Global treatment of torsional excited states of non-equivalent CH3 tops: test with 2-propanimine**, 28<sup>th</sup> Colloquium on High Resolution Molecular Spectroscopy, Dijon, France (28/08/2023 - 01/09/2023).
 
 * __Luyao Zou__, Laurent Margulès, Roman A. Motiyenko, Jean-Claude Guillemin, Arnaud Belloche, Jes Jørgensen, **Millimeter-wave spectrum of 2-propanimine and its search in the interstellar medium**, 75<sup>th</sup> International Symposium on Molecular Spectroscopy, Champaign–Urbana, USA (20/06/2022 - 24/06/2022).
 
