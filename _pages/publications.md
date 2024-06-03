@@ -10,6 +10,10 @@ author_profile: true
 Peer-reviewed publications since 2012
 =====
 
+* Extended measurements and calculations of CH<sub>3</sub>C<sup>14</sup>N-N<sub>2</sub> rotational lineshape parameters, __Luyao Zou__, Anna Dudaryonok, François Rohart, Laurent Margulès, Nina Lavrentieva, Jeanna Buldyreva, *Icarus* (2024) 418, 116149. DOI: [10.1016/j.icarus.2024.116149](https://doi.org/10.1016/j.icarus.2024.116149)
+
+* A biogenic organic molecule involved in the formation of secondary organic aerosols: Microwave and millimeter-wave spectroscopy of 3-methylcatechol backed by quantum chemistry, Anthony Roucou, Xiujuan Wang, Jonas Bruckhuisen, Manuel Roca, Colwyn Bracquart, Robin Blanchart, __Luyao Zou__, Qian Gou, Arnaud Cuisset, Guillaume Dhont, *Journal of Molecular Structure* (2024) 1308, 138048. DOI: [10.1016/j.molstruc.2024.138048](https://doi.org/10.1016/j.molstruc.2024.138048)
+
 * Millimeter-wave spectrum of 2-propanimine, __Luyao Zou__,  Jean-Claude Guillemin; Arnaud Belloche; Jes K Jørgensen; Laurent Margulès; Roman A Motiyenko; Peter Groner, *MNRAS* (2023) 520, 4089. DOI: [10.1093/mnras/stad405](https://doi.org/10.1093/mnras/stad405)
 
 * Millimeter- and submillimeter-wave spectrum of formaldoxime (CH<sub>2</sub>NOH), __Luyao Zou__, Jean-Claude Guillemin, Roman A. Motiyenko, and Laurent Margulès, *A&A* (2021) 649, A60. DOI: [10.1051/0004-6361/202040142](https://doi.org/10.1051/0004-6361/202040142)
